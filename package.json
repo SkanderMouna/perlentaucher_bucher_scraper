@@ -1,0 +1,13 @@
+{
+  "name": "perlentaucher_bucher_scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrapUrl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "puppeteer": "^22.8.2"
+  }
+}
